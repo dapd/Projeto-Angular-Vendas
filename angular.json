@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vendas"
+    }
+  },
+  "defaultProject": "vendas",
+  "cli": {
+    "analytics": false
+  }
 }
